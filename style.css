@@ -1,0 +1,59 @@
+body {
+    background-color: white;
+    font-family: 'IBM Plex Serif', serif
+
+}
+
+#navbox {
+    background-color: #3C81e0;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+
+#videosMelhoresNoticias{
+    background-color: #8dced2;
+    display: flex;
+    justify-content: center; 
+
+}
+.video1 {
+  
+    margin-right: 5px;
+
+}
+
+.video2 {
+  
+    margin-left: 5px;
+
+}
+
+#textoMelhoresNoticias{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px
+
+}
+
+
+a{
+    color: #EAE0D3;
+    text-decoration: unset;
+    font-family: 'IBM Plex Serif', serif
+
+}
+
+h3{
+    color: black;
+
+}
+
+p {
+    text-align: center;
+}
