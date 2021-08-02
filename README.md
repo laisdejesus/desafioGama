@@ -3,7 +3,7 @@
 Desafio do treinamento de Frontend da Gama Academy.
 O objetivo era criar uma página com informações sobre o COVID-19, utilizando apenas HTML e CSS puro.
 
-#### Status: 🚧 Em construção 
+#### Status: :dizzy: Finalizado
 
 #### Stacks e libs utilizadas:
 - HTML;
